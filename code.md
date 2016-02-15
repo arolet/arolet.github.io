@@ -10,7 +10,7 @@ permalink: /code/
 Relevant paper: Antoine Rolet, Marco Cuturi and Gabriel Peyré. Fast Dictionary Learning with a Smoothed Wasserstein Loss. To appear in Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, Cadiz, Spain. JMLR: W&CP volume 41.
 </p>
 <p>
-Code available on the Github repository: <a href="https://github.com/antoine-rolet/wasserstein-dictionary-learning">https://github.com/antoine-rolet/wasserstein-dictionary-learning</a>
+Code available on the Github repository: <a href="http://arolet.github.io/wasserstein-dictionary-learning">http://arolet.github.io/wasserstein-dictionary-learning</a>
 </p>
 <h1 class="page-heading">Yomiwa</h1>
 <p>

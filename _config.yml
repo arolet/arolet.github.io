@@ -9,10 +9,10 @@
 title: Antoine Rolet's homepage
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "antoine-rolet.github.io" # the base hostname & protocol for your site
-github_username:  antoine.rolet
+github_username:  arolet
 
 # Build settings
 markdown: kramdown
