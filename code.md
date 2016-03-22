@@ -7,7 +7,7 @@ permalink: /code/
 
 <h1 class="page-heading">Wasserstein Dictionary learning and Wasserstein NMF</h1>
 <p>
-Relevant paper: Antoine Rolet, Marco Cuturi and Gabriel Peyré. Fast Dictionary Learning with a Smoothed Wasserstein Loss. To appear in Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, Cadiz, Spain. JMLR: W&CP volume 41.
+Relevant paper: Antoine Rolet, Marco Cuturi and Gabriel Peyré. <a href="{{ site.baseurl }}/res/pdf/Wasserstein_dictionary_learning.pdf">Fast Dictionary Learning with a Smoothed Wasserstein Loss.</a>. To appear in Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, Cadiz, Spain. JMLR: W&CP volume 41. <a href="{{ site.baseurl }}/res/pdf/Supplementary_Wasserstein_dictionary_learning.pdf">Supplementary materials.</a>
 </p>
 <p>
 Code available on the Github repository: <a href="http://arolet.github.io/wasserstein-dictionary-learning">http://arolet.github.io/wasserstein-dictionary-learning</a>
