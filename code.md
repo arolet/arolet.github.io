@@ -14,7 +14,7 @@ Code available on the Github repository: <a href="http://arolet.github.io/wasser
 </p>
 <h1 class="page-heading">Yomiwa</h1>
 <p>
-Japanese text detection / dictionary app, available on iOS and android :
+Japanese Optical Character Recognition / dictionary app, available on iOS and android :
 </p>
 <p>
 <center><a class="badge" href="https://itunes.apple.com/us/app/yomiwa/id670931120?ls=1&mt=8"><img class="badge" src="{{ site.baseurl }}/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
