@@ -14,7 +14,7 @@ Code available on the Github repository: <a href="http://arolet.github.io/wasser
 </p>
 <h1 class="page-heading">Yomiwa</h1>
 <p>
-Japanese Optical Character Recognition / dictionary app, available on iOS and android :
+Japanese Optical Character Recognition / Dictionary app, available on iOS and Android:
 </p>
 <p>
 <center><a class="badge" href="https://itunes.apple.com/us/app/yomiwa/id670931120?ls=1&mt=8"><img class="badge" src="{{ site.baseurl }}/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
@@ -26,7 +26,7 @@ Japanese Optical Character Recognition / dictionary app, available on iOS and an
         Here is a matlab wrapper for the c++ code from Nicolas Bonneel available on <a href="http://people.seas.harvard.edu/~nbonneel/FastTransport/" target="_blank">this page</a>, which is a light adaptation of LEMON to solve the network simplex for bipartite graphs. I recommend using the source code, but you can also use one of the system specific compiled matlab function.
         </p>
 		<p>
-        Update 2015-05 :
+        Update 2015-05:
         <ul>
             <li>Corrected a bug that appears for highly degenerated problem that made the optimality check fail (leading to infinite cycling)</li>
             <li>Added an argument that allows to limit the maximum number of simplex pivot (defaults to infinity)</li>
