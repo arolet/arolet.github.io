@@ -39,8 +39,8 @@ Japanese text detection / dictionary app, available on iOS and android :
         </ul></p>
         
         <p>Linux :<ul>
-            <li> <a href="{{ site.baseurl }}/res/code//mexEMD_linux_64.zip">64bits version (tested on ubuntu and centOS)</a></li>
-            <li> <a href="{{ site.baseurl }}/res/code//mexEMD_linux_32.zip">32bits version (tested on ubuntu)</a></li>
+            <li> <a href="{{ site.baseurl }}/res/code/mexEMD_linux_64.zip">64bits version (tested on ubuntu and centOS)</a></li>
+            <li> <a href="{{ site.baseurl }}/res/code/mexEMD_linux_32.zip">32bits version (tested on ubuntu)</a></li>
                 </ul></p>
         
         <p>Windows : <ul>
