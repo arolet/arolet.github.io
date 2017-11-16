@@ -17,7 +17,7 @@ permalink: /curriculum/
 <h1 class="page-heading">Internships</h1>
 <p>
 <ul>
-<li>2011, April~August : Brain-Computer Interfaces, Sparsity inducing regulations for the inverse problem with EEG signals. <a href="https://www.lri.fr/index_en.php?lang=EN" target="_blank">Laboratoire de Recherche en Informatique</a>, <a href="http://www.u-psud.fr/en/international.html" target="_blank">Université Paris-Sud XI</a>
+<li>2011, April~August : Brain-Computer Interfaces, Sparsity inducing regulations for the inverse problem with EEG signals. <a href="https://www.lri.fr/index_en.php?lang=EN" target="_blank">Laboratoire de Recherche en Informatique</a>, <a href="http://www.u-psud.fr/en/international.html" target="_blank">Université Paris-Sud XI</a></li>
 <li>2012, April~September : Ground Metric Learning. <a href="http://www.iip.ist.i.kyoto-u.ac.jp/index-e.html" target="_blank">Yamamoto Laboratory</a>,
 <a href="http://www.i.kyoto-u.ac.jp/en" target="_blank">Graduate School of Informatics</a>,
 <a href="http://www.kyoto-u.ac.jp/en" target="_blank">Kyoto University</a>, Japan</li>
