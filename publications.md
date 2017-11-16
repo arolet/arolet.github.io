@@ -6,7 +6,7 @@ permalink: /publications/
 <div class="home">
 
 <p>
-Vivien Seguy, Bharath Bhushan Damodaran, Rémi Flamary, Nicolas Courty, Antoine Rolet, Mathieu Blondel. <a href="https://arxiv.org/abs/1710.06276">Large-Scale Optimal Transport and Mapping Estimation</a>. 2017 Arxiv
+Vivien Seguy, Bharath Bhushan Damodaran, Rémi Flamary, Nicolas Courty, Antoine Rolet, Mathieu Blondel. <a href="https://arxiv.org/abs/1711.02283">Large-Scale Optimal Transport and Mapping Estimation</a>. 2017 Arxiv
 </p>
 
 <p>
