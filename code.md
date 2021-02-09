@@ -5,12 +5,20 @@ permalink: /code/
 ---
 <div class="home">
 
-<h1 class="page-heading">Wasserstein Dictionary learning and Wasserstein NMF</h1>
+<h1 class="page-heading">Optimal transport sparse projection</h1>
 <p>
-Relevant paper: Antoine Rolet, Marco Cuturi and Gabriel Peyré. <a href="{{ site.baseurl }}/res/pdf/Wasserstein_dictionary_learning.pdf">Fast Dictionary Learning with a Smoothed Wasserstein Loss.</a>. To appear in Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, Cadiz, Spain. JMLR: W&CP volume 41. <a href="{{ site.baseurl }}/res/pdf/Supplementary_Wasserstein_dictionary_learning.pdf">Supplementary materials.</a>
+Relevant paper: Antoine Rolet, Vivien Seguy. <a href="https://link.springer.com/article/10.1007/s00371-020-02029-7">Fast optimal transport regularized projection and application
+ to coefficient shrinkage and filtering</a>. In The Visual Computer, 2021.
 </p>
 <p>
-Code available on the Github repository: <a href="http://arolet.github.io/wasserstein-dictionary-learning">http://arolet.github.io/wasserstein-dictionary-learning</a>
+Code available on the Github repository: <a href="https://github.com/arolet/ot-sparse-projection">https://github.com/arolet/ot-sparse-projection</a>
+</p>
+<h1 class="page-heading">Wasserstein dictionary learning and Wasserstein NMF</h1>
+<p>
+Relevant paper: Antoine Rolet, Marco Cuturi and Gabriel Peyré. <a href="{{ site.baseurl }}/res/pdf/Wasserstein_dictionary_learning.pdf">Fast Dictionary Learning with a Smoothed Wasserstein Loss.</a>. In Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (AISTATS) 2016, Cadiz, Spain. JMLR: W&CP volume 41. <a href="{{ site.baseurl }}/res/pdf/Supplementary_Wasserstein_dictionary_learning.pdf">Supplementary materials.</a>
+</p>
+<p>
+Code available on the Github repository: <a href="https://arolet.github.io/wasserstein-dictionary-learning">https://arolet.github.io/wasserstein-dictionary-learning</a>
 </p>
 <h1 class="page-heading">Yomiwa</h1>
 <p>Yomiwa is a Japanese Optical Character Recognition / Dictionary app. Available at:</p>
@@ -48,9 +56,5 @@ Code available on the Github repository: <a href="http://arolet.github.io/wasser
             <li> <a href="{{ site.baseurl }}/res/code/mexEMD_linux_64.zip">64bits version (tested on ubuntu and centOS)</a></li>
             <li> <a href="{{ site.baseurl }}/res/code/mexEMD_linux_32.zip">32bits version (tested on ubuntu)</a></li>
                 </ul></p>
-        
-        <p>Windows : <ul>
-            <li>Coming soon</a></li>
-        </ul></p>
         
 </div>
