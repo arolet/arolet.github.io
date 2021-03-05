@@ -5,6 +5,12 @@ permalink: /publications/
 ---
 <div class="home">
 
+
+<h1 class="page-heading">Thesis</h1>
+<p>Antoine Rolet. Optimal Transport Dictionary Learning and Non-negative Matrix Factorization. Defended on February 2021. PDF coming soon.</p>
+
+<h1 class="page-heading">Articles</h1>
+
 <p>
 Antoine Rolet, Vivien Seguy. <a href="https://link.springer.com/article/10.1007/s00371-020-02029-7">Fast optimal transport regularized projection and application
  to coefficient shrinkage and filtering</a>. In The Visual Computer, 2021.  <a href="{{ site.baseurl }}/res/pdf/ot_sparse_projection.pdf">Accepted version</a> | <a href="https://github.com/arolet/ot-sparse-projection">Code</a>
