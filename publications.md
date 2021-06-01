@@ -7,7 +7,7 @@ permalink: /publications/
 
 
 <h1 class="page-heading">Thesis</h1>
-<p>Antoine Rolet. Optimal Transport Dictionary Learning and Non-negative Matrix Factorization. Defended on February 2021. PDF coming soon.</p>
+<p>Antoine Rolet. Optimal Transport Dictionary Learning and Non-negative Matrix Factorization. Defended on February 2021. <a href="{{ site.baseurl }}/res/pdf/thesis.pdf">PDF</a></p>
 
 <h1 class="page-heading">Articles</h1>
 
